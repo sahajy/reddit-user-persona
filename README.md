@@ -129,21 +129,3 @@ If you'd like to get in touch about this project, feel free to connect via GitHu
 This project was created as part of an assignment for the AI/LLM Engineer Intern position at **BeyondChats**.
 
 ````
-
----
-
-Once you've added this:
-
-1. In VS Code:
-   - Right-click in the root folder → New File → `README.md`
-   - Paste all the above text
-   - Save
-
-2. Then in terminal:
-
-```bash
-git add README.md
-git commit -m "Add full README with setup and usage instructions"
-git push
-````
-
