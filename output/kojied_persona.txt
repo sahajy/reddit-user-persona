@@ -1,0 +1,47 @@
+ User Persona for Redditor kojiied
+
+- Name: Koji
+- Age: Late 20s to early 30s
+- Occupation: Environmental consultant, iOS developer, or interested in sustainable living
+- Status: Single or in a relationship
+- Location: New York City or a similar urban area
+- Archetype: The Innovator, The Environmentalist
+
+🧠 Personality
+- Introvert/Extrovert: Ambivert
+- Thinker/Feeler: Thinker
+- Judging/Perceiving: Perceiving
+- Curious, reflective, and detail-oriented
+
+🎯 Motivations
+- Staying informed about technology and sustainability
+- Sharing knowledge and experiences with others
+- Engaging in discussions about various topics
+
+📌 Behaviour & Habits
+- Participates in Reddit discussions on various topics
+- Shares personal experiences and knowledge
+- Follows up on discussions and replies to comments
+
+😩 Frustrations
+- The slow pace of change in sustainability and technology
+- Inequality in the world
+- The negative impacts of capitalism
+
+🎯 Goals & Needs
+- To become more aware of ESG ratings and their impact
+- To develop a mental model for financial decisions
+- To learn more about spatial computing and AR
+
+📚 Supporting Citations:
+- "I'm an iOS developer building in visionOS... Do people have recommendations on resources to catch up on new featuresets for spacial computing?" → (Interested in technology and spatial computing)
+- "What should I tell them? Lmk if you have thoughts or useful links/videos I should forward to them." → (Engages in discussions and values the input of others)
+- "I'm curious if people have been able to fully port their workflow into AVP... if this device can’t replace my entire workflow, I don’t know if I can justify the price." → (Concerned about the practicality of technology and its cost)
+- "I feel that most people decide what to buy based on past experiences, gut feeling, or the mood of that day. But is there a way to better understand what we get our 'gratification' from, and track this?" → (Interested in financial decisions and mental models)
+- "Would love to hear how you make your purchase decisions, and if there's a mental model you follow!" → (Values the input and opinions of others)
+- "Do you think individuals should be aware of our own ESG rating?" → (Interested in sustainability and ESG ratings)
+- "I've been lurking in this channel for a while now, and have been greatly inspired by the ways people have found ways to stretch their money. This got me thinking, is there a way to develop a mental model on what we buy or don't buy?" → (Interested in financial decisions and mental models)
+- "English ivy in critical condition" → (Has experience with gardening and is concerned about the well-being of plants)
+- "3 months in, the cleanest and most functional RV interior zomboid has to offer." → (Likes to share personal experiences and achievements)
+- "Millenials have less kids, so they have more time and money to spend on themselves. Millenials are also getting married less and later in life, meaning we allocate more effort on self care" → (Interested in demographics and the impact of societal changes)
+- "Sent dm!" → (Values privacy and personal communication)
